@@ -1,0 +1,6 @@
+print "hello world";
+
+int x=2;
+int y=3;
+
+print x+y;
